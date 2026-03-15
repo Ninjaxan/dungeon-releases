@@ -1,0 +1,1 @@
+# Dungeon Games Releases\n\nOfficial downloads for Dungeon Games desktop applications.\n\n## Dungeon Launcher\n\nDownload the latest version from the [Releases](https://github.com/Ninjaxan/dungeon-releases/releases) page.
